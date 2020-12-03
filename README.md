@@ -1,2 +1,1 @@
-# IOT-Analytics-In-Energy-Management
-Internship Project
+# IoT-Analytics-In-Energy-Management
